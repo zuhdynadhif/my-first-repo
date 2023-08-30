@@ -4,4 +4,6 @@ NPM     : 2206081212
 
 Kelas   : PBP C
 
-Hobi    : Menyenangkan
+Hobi    : Main
+
+Jurusan : Ilmu Komputer
